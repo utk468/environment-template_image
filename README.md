@@ -1,0 +1,1 @@
+# environment-template_image
